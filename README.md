@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software developer from India. Aspiring Spring Boot Developer.</h3>
+
 
 - Email : **immanuelantony2571@gmail.com**
 
