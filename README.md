@@ -1,6 +1,6 @@
 
 
-- Email : **immanuelantony2571@gmail.com**
+- Email : **immanuelsanthony@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
